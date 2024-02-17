@@ -1,0 +1,13 @@
+.form{
+    width:250px;
+    height: 260px;
+    background-color:grey;
+    align-items: center;
+    margin-top: 250px;
+    border-radius: 8px;
+    
+}
+.text{
+    width:125px;
+    height: 25px;
+}

@@ -1,0 +1,28 @@
+.navbar{
+    width:1550px;
+    height:50px;
+    background-color: turquoise; 
+    color: aliceblue;
+    margin: 0;
+    padding: 0;
+
+   
+}
+.marquee{
+    background-color: cyan;
+    height:25px;
+    color: green;
+}
+a{
+    font-size:25px;
+}
+button{
+    margin-left:12px;
+    border-radius:12px;
+    margin-top: 7px;
+}
+body{
+    margin:0;
+    padding:0;
+    
+}
